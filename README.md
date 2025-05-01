@@ -68,14 +68,18 @@ Semua fitur diakses dalam satu form (`Form1.cs`) dengan tiga tab:
 ---
 
 ## DESAIN MocKup
+[*Tambahkan screenshot tampilan aplikasi di sini jika dipe] 
+(https://www.figma.com/design/1IYJHVj4Z5FhmvE1N1LSYG/Untitled?node-id=1-161&p=f&t=VGGMvEOWAQLNdsXo-0)
 
-*Tambahkan screenshot tampilan aplikasi di sini jika dipe
 
 ---
 
 ## 🧑‍💻 Pengembang
 
 Dibuat oleh untuk keperluan tugas/project manajemen perpustakaan.
+---
 Mochammad Atur Akbar Loredo H.P (2213020006)
+---
 Rina Padila Febriani (2213020170) 
+---
 
